@@ -1,0 +1,33 @@
+{
+  "name": "sam-playground",
+  "version": "0.0.0",
+  "description": "My hunky-dory module",
+  "license": "MIT",
+  "repository": "SamVerschueren/sam-playground",
+  "author": {
+    "name": "Sam Verschueren",
+    "email": "sam.verschueren@gmail.com",
+    "url": "github.com/SamVerschueren"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "Hunky",
+    "Funky"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "xo": "^0.16.0"
+  },
+  "xo": {
+    "esnext": true
+  }
+}
