@@ -18,7 +18,8 @@
     "postinstall": "./cli.js"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "cli.js"
   ],
   "keywords": [
     "Hunky",
