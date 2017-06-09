@@ -14,7 +14,7 @@
     "node": ">=4"
   },
   "scripts": {
-    "test": "ava"
+    "test": "node test.js"
   },
   "files": [
     "index.js",
@@ -23,8 +23,5 @@
   "keywords": [
     "Hunky",
     "Funky"
-  ],
-  "devDependencies": {
-    "ava": "^0.19.1"
-  }
+  ]
 }
