@@ -1,11 +1,13 @@
 'use strict';
 const fs = require('fs');
+const pkg = require('./package.json');
 
 const html = `
 <!DOCTYPE html>
 <html>
 <body>
-	Hello world!
+	Hello world!<br />
+	<small>${pkg.version}</small>
 </body>
 </html>
 `;
