@@ -14,7 +14,8 @@
     "node": ">=4"
   },
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js",
+    "docs": "node docs.js"
   },
   "files": [
     "index.js",
