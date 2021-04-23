@@ -13,7 +13,7 @@
 <svg viewBox="0 0 960 850" width="960" height="850" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
-       <iframe src="https://stackblitz.com/edit/typescript-kdlwbm?embed=1&file=index.ts" style="width:700px;height:700px"></iframe>
+       <iframe src="https://samverschueren.github.com/sam-playground" style="width:700px;height:700px"></iframe>
     </div>
   </foreignObject>
 </svg>
