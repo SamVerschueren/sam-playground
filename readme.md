@@ -15,6 +15,8 @@ foo
 
 line
 
+add a new line
+
 <div align="center">
 	<img src="sb.svg" width="200" height="200">
 </div>
