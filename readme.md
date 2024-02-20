@@ -25,3 +25,4 @@ Let's add a commit
 And can we ammend it?
 Another commit
 test
+foo
