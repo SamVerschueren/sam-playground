@@ -26,3 +26,4 @@ And can we ammend it?
 Another commit
 test
 foo
+bar
