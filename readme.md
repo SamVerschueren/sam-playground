@@ -27,3 +27,5 @@ Another commit
 test
 foo
 bar
+
+foo
