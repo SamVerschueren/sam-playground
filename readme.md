@@ -21,7 +21,7 @@ add a new line
 	<img src="sb.svg" width="200" height="200">
 </div>
 
-Let's add a commit
+Let's add a commit and edit it
 And can we ammend it?
 Another commit
 test
