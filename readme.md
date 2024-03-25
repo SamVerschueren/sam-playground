@@ -27,3 +27,4 @@ Another commit
 test
 foo
 bar
+new line
