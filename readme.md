@@ -28,3 +28,5 @@ test
 foo
 bar
 new line
+
+test
